@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Cafe24";
+    src: url("./Cafe24.ttf")
+}
+
+
+body {
+    background-color: #FF98C5;
+}
+
+h1 {
+    font-family: "Cafe24";
+    font-size: 35px;
+    text-align: center;
+}
+p {
+    font-family: "Cafe24";
+    font-size: 24px; 
+    text-align: center;
+}
+
+ul {
+    font-family: "Cafe24";
+    font-size: 24px; 
+    text-align: center;
+}
+img {
+    width: 400px;
+}
